@@ -1,0 +1,22 @@
+{
+  "name": "jhest-memory-game",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackcrosbie/Jhest-memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackcrosbie/Jhest-memory-game/issues"
+  },
+  "homepage": "https://github.com/jackcrosbie/Jhest-memory-game#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
